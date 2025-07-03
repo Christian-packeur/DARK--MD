@@ -71,7 +71,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 My Number ADM  me?👉 https://was.me/+2250152857921 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2035 Christian-packeur*
+©*2024-2035 Christian-packeur Christian ICHORO*©
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
